@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0151-reverse-words-in-a-string) |
 ## Simulation
 |  |
 | ------- |
