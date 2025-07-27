@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
