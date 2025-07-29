@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
