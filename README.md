@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
