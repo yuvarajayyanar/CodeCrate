@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,9 +64,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
