@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0443-string-compression) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0443-string-compression) |
 ## Simulation
 |  |
 | ------- |
