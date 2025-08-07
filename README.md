@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sliding Window
 |  |
 | ------- |
