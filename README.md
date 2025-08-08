@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0782-jewels-and-stones) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0782-jewels-and-stones](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0782-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
