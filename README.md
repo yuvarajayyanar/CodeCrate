@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
+| [0657-robot-return-to-origin](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0657-robot-return-to-origin) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
