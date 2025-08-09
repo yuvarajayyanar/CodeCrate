@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 ## Memoization
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
