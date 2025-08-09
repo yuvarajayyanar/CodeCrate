@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
