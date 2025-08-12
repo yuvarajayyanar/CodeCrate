@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0053-maximum-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
