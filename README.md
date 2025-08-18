@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
