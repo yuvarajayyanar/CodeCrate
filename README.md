@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0944-smallest-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0944-smallest-range-i) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
