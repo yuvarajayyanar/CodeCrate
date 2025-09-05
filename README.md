@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0917-boats-to-save-people](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0917-boats-to-save-people) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Greedy
