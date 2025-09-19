@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1019-squares-of-a-sorted-array) |
+| [2211-k-radius-subarray-averages](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
+| [2211-k-radius-subarray-averages](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2211-k-radius-subarray-averages) |
 ## Divide and Conquer
 |  |
 | ------- |
