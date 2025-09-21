@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0643-maximum-average-subarray-i) |
 | [2211-k-radius-subarray-averages](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2211-k-radius-subarray-averages) |
 ## Divide and Conquer
 |  |
