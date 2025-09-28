@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0782-jewels-and-stones) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2211-k-radius-subarray-averages) |
 ## Divide and Conquer
 |  |
