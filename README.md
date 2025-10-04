@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
