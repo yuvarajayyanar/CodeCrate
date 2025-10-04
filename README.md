@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2211-k-radius-subarray-averages](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/yuvarajayyanar/CodeCrate/tree/master/2211-k-radius-subarray-averages) |
@@ -216,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
