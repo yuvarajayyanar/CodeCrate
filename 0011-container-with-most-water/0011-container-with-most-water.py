@@ -8,10 +8,11 @@ class Solution:
             h=min(height[m1],height[m2])
             w=m2-m1
             a=h*w
-            ma=max(a,ma)
+            ma=max(ma,a)
 
             if height[m1]<height[m2]:
                 m1+=1
             else:
                 m2-=1
+
         return ma
