@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0944-smallest-range-i) |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/1046-max-consecutive-ones-iii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
