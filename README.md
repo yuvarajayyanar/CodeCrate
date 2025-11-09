@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0326-power-of-three) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
