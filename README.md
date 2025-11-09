@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0172-factorial-trailing-zeroes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0628-maximum-product-of-three-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0414-third-maximum-number) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yuvarajayyanar/CodeCrate/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
